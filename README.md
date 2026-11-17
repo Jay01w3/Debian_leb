@@ -1,5 +1,4 @@
 # Debian_leb
-Reviving an Old PC with Debian Minimal and LXQt
 
 1. Project Overview
 
